@@ -1,0 +1,2 @@
+java -Xms1024m -Xmx1024m Decoder -i "C:\uscProjects\576\project\video\test_data.576v"  -b "C:\uscProjects\576\project\video\test_data.base"  -e "C:\uscProjects\576\project\video\test_data.enhanced" -r 24
+pause
